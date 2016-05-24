@@ -1,0 +1,22 @@
+This is just a collection of links that I have collected while preparing for the OSCP exam.
+
+# Reverse Shells
+https://github.com/wg135/webshell-1/blob/master/php/reverseshell-poc.txt # Great PHP reverse shell. Dead easy to use
+www.exploit-db.com # Always check here to see what's been found. Also can use searchsploit <string> to find stuff from within Kali 2.0
+
+# SQL Injection Resources
+http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet # SQL Injection cheat sheet
+http://kanishkashowto.com/2013/08/09/website-hacking-login-bypass-using-sql-injection-2/
+http://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-database/
+http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/#QuickDetection # Quick detection techniques for MS SQL
+
+# Priv Escalation
+http://toshellandback.com/2015/11/24/ms-priv-esc/ # Different Windows-based escalation vectors
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ # Almight linux escalation and enumeration guide from g0tmilk
+
+# Redis Exploitation
+http://antirez.com/news/96 # Blog on exploiting Redis versions < 3.2
+
+# Miscellaneous Links
+https://trailofbits.github.io/ctf/vulnerabilities/README.html # General CTF guide
+http://phrack.org/ # "Hackers" ezine
