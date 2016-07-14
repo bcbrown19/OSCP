@@ -2,6 +2,7 @@ This is just a collection of links that I have collected while preparing for the
 
 # Reverse Shells
 https://github.com/wg135/webshell-1/blob/master/php/reverseshell-poc.txt # Great PHP reverse shell. Dead easy to use
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet # All kinds of reverse shell commands
 www.exploit-db.com # Always check here to see what's been found. Also can use searchsploit <string> to find stuff from within Kali 2.0
 
 # SQL Injection Resources
@@ -11,8 +12,9 @@ http://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-data
 http://www.sqlinjectionwiki.com/Categories/1/mssql-sql-injection-cheat-sheet/#QuickDetection # Quick detection techniques for MS SQL
 
 # Priv Escalation
+http://www.fuzzysecurity.com/tutorials/16.html # Windows privilege escalation fundamentals
 http://toshellandback.com/2015/11/24/ms-priv-esc/ # Different Windows-based escalation vectors
-https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ # Almight linux escalation and enumeration guide from g0tmilk
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ # Almighty linux escalation and enumeration guide from g0tmilk
 
 # Redis Exploitation
 http://antirez.com/news/96 # Blog on exploiting Redis versions < 3.2
